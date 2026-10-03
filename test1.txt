@@ -1,1 +1,2 @@
 This is my 1st test message line but now modified.
+This is now my 2nd line.
